@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/MarioJump.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            <state relative-caret-position="128">
+              <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1554" />
+    <option name="x" value="1372" />
     <option name="width" value="1640" />
     <option name="height" value="2012" />
   </component>
@@ -163,7 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580983222770</updated>
       <workItem from="1580983226723" duration="2076000" />
-      <workItem from="1581068458456" duration="2385000" />
+      <workItem from="1581068458456" duration="2818000" />
     </task>
     <task id="LOCAL-00001" summary="work-xml">
       <created>1581069908890</created>
@@ -176,7 +176,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4461000" />
+    <option name="totallyTimeSpent" value="4894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -191,7 +191,7 @@
     <frame x="-6" y="-6" width="1513" height="1013" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25292096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25292096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -208,7 +208,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32993197" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.18253969" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.18253969" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32993197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -239,8 +239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MarioJump.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        <state relative-caret-position="128">
+          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
         </state>
       </provider>
     </entry>
