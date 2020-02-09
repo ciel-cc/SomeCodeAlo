@@ -1,7 +1,11 @@
 import java.util.Arrays;
 
+/**
+ *
+ */
 public class MarioJump {
     public int marioDump(int[] maxDis, int p){
+        //dp[i]代表当前点到最终点的可达距离
         int[] dp = new int[maxDis.length];
         //往后跳可达,
         for (int i = maxDis.length-1; i >=0; i--) {
